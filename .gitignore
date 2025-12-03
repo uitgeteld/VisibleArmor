@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+
+# Forge / Minecraft
+run/
+logs/
+debug/
+.loom/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Backup / temp
+*.tmp
+*.bak
+*.swp
+~*
+
+# Build artifacts
+*.jar
+*.zip
+*.tar
+*.gz
